@@ -28,7 +28,7 @@ Thanks to Playerbots, Azeroth is always alive, dungeons and raids are always acc
 
 ---
 
-## 📦 Installation & Setup
+## 📦 Installation & Setup (WORK IN PROGRESS)
 
 *(Add your own setup instructions, e.g., how to start the server or connect.)*
 
