@@ -30,12 +30,7 @@ Thanks to Playerbots, Azeroth is always alive, dungeons and raids are always acc
 
 ## 📦 Installation & Setup (WORK IN PROGRESS)
 
-*(Add your own setup instructions, e.g., how to start the server or connect.)*
-
-1. Clone the repo
-2. Prepare AzerothCore
-3. Enable modules / Playerbots
-4. Log in & have fun
+see the [FrozenCore Installguide](FrozenCore Installguide) file.
 
 ---
 
