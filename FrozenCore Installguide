@@ -1,6 +1,6 @@
 OG Author: https://www.youtube.com/@nirv 
 OG Author: https://www.youtube.com/@Painbow9553
-Author: https://github.com/Bozzbob
+Edited: https://github.com/Bozzbob
 
 -----------------------------------------------------------------------------------------------------------------------
 How to run your own WotLK AzerothCore with Playerbots server using Linux (2025)
@@ -933,6 +933,7 @@ nano ~/azerothcore-wotlk/apps/installer/includes/os_configs/debian.sh
 Now continue the guide after the first git clone command near the top of this guide as normal!
 -----------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------
+
 
 
 
