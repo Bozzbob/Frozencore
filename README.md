@@ -12,7 +12,7 @@ It aims to bring back the epic Northrend atmosphere while adding modern features
 - 🐴 **Account-wide mounts** – learn once, usable on all characters
 - 🏆 **Account-wide achievements** – completed achievements apply to all characters
 - 🎯 **Gain honor from NPC guards** – extra PvP options
-- 🏟️ **Better battleground rewards** – more balanced and rewarding
+- 🏟️ **Better Battleground rewards** – more balanced and rewarding
 - ⏱️ **No Hearthstone cooldown** – faster traveling
 - ✨ **Spells are learned immediately** – no waiting for trainers
 - ❄️ **Northrend atmosphere** – relive the epic WotLK feel
