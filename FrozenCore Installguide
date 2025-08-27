@@ -182,7 +182,13 @@ apt update && apt install git curl unzip sudo libreadline-dev -y
 git clone https://github.com/liyunfan1223/azerothcore-wotlk.git --branch=Playerbot
 #DEBIAN 13 USERS: STOP HERE IF YOU ARE INSTALLING THIS ON DEBIAN 13 TRIXIE. READ INSTRUCTIONS AT THE BOTTOM OF THIS GUIDE BEFORE CONTINUING: "2025-08-15 INSTALLING IN DEBIAN 13 TRIXIE"
 cd ~/azerothcore-wotlk/modules
-git clone https://github.com/liyunfan1223/mod-playerbots.git --branch=master
+git clone https://github.com/Bozzbob/mod-playerbots.git
+git clone https://github.com/Bozzbob/mod-gain-honor-guard.git
+git clone https://github.com/Bozzbob/mod-account-mounts.git
+git clone https://github.com/Bozzbob/mod-bg-reward.git
+git clone https://github.com/Bozzbob/mod-no-hearthstone-cooldown.git
+git clone https://github.com/Bozzbob/mod-learn-spells.git
+git clone https://github.com/Bozzbob/mod-account-achievements.git
 #DEPENDENCIES FOR DEBIAN!!
 apt-get update && apt-get install git cmake make gcc g++ clang libssl-dev libbz2-dev libreadline-dev libncurses-dev libboost-all-dev tmux gnupg -y
 cd ~/azerothcore-wotlk
@@ -933,6 +939,7 @@ nano ~/azerothcore-wotlk/apps/installer/includes/os_configs/debian.sh
 Now continue the guide after the first git clone command near the top of this guide as normal!
 -----------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------
+
 
 
 
