@@ -28,7 +28,7 @@ Thanks to Playerbots, Azeroth is always alive, dungeons and raids are always acc
 
 ---
 
-## 📦 Installation & Setup (WORK IN PROGRESS)
+## 📦 Installation & Setup 
 
 see the [Installguide](./FrozenCore%20Installguide)
 
